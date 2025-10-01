@@ -11,7 +11,7 @@ const Navbar = () => {
     <Link to="/add-habit" className="btn btn-outline-success me-5 my-sm-0 m-2" type="submit" >Add Habits</Link>
 </form>
     </nav>
-    <h1 className='text-center author'>Designed by Anuj Sahu</h1>
+    <h1 className='text-center author'>Designed by Anuj Sahu, devployed by Manish</h1>
     </div>
   )
 }
